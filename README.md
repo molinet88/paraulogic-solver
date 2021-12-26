@@ -1,3 +1,5 @@
 # Paraulògic solver
 
-Descarrega't el repositori, obre el fitxer `index.html` amb un navegador i ja tindràs el Paraulògic del dia resolt.
+Codi per solucionar el joc del **Paraulògic**.  
+
+Enganxa el codi a la consola del navegador i tindràs el taulell del dia resolt!
